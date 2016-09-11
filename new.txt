@@ -1,3 +1,4 @@
 new
 new again
 alredy in branch
+Now here is the second commit in branch
